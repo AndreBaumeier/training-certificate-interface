@@ -1,9 +1,11 @@
 <?php
 /**
+ * @author Andre Baumeier <hallo@andre-baumeier.de>
+ * @link http://andre-baumeier.de
+ * @copyright Copyright (c) 2011, Andre Baumeier
+ * @license http://creativecommons.org/licenses/by-nc-sa/3.0/ CC BY-NC-SA 3.0
  * 
  * class for storing weekly reports
- * @author Andre Baumeier
- *
  */
 class Report {
 	private $_startDate;
